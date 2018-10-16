@@ -6,8 +6,8 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class AztecController {
 
-//    @GetMapping()
-//    public String index(){
-//        return "index";
-//    }
+    @GetMapping("/jotain")
+    public Something getSomething(){
+        return new Something("woohoo it works!", "i guess its ok", "kinda doesnt do much");
+    }
 }
