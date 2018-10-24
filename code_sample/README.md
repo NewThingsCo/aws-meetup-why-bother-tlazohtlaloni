@@ -22,3 +22,8 @@ This will run any tests that exists and produce a jar in the build folder of eac
 ## Explanations of Zuul and Eureka
 
 I highly recommend the Baeldung tutorials on Spring with microservices as a starting point for using Zuul and Eureka : [https://www.baeldung.com/spring-microservices-guide](https://www.baeldung.com/spring-microservices-guide)
+
+
+## License
+
+CC0 1.0 Universal see LICENSE file for more information
