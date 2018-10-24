@@ -3,6 +3,9 @@
 # AWS - Why Bother?
 ### By Michael Fynes
 
+[Slides](AWS_Why_Bother_A_Developers_perspective.pdf)
+
+
 "In the beginning there was darkness…"
 
 Then Amazon said, "let there be clouds!" and thus the empire was forged.  Cloud services, and the components that make up cloud services, are now rapidly becoming a core part of any developers competencies.  Relying on a specific designated “DevOps”, “Infra”, or “IT Manager”, to handle all the deployment of applications to these cloud services is a luxury most companies can not afford.  This is especially true since most companies have wildly different ideas of what DevOps actually is, in some cases it means developers do everything, in others it means having dedicated team to handle integration of code to infrastructure.  Some companies can, and do, imbue all this knowledge and responsibility on a single person.  This however presents a large risk if that person, or persons, was to ever leave the company.  This brief is aimed at the first definition.  You wrote it, you run it.  Developers who are just starting out with cloud services who want to help reduce this risk, and to improve their own toolbox can use this talk as a gentle introduction of what it is all about.  It contains the information I wish I had access to when I began my own journey out of the swamps and into the clouds.
