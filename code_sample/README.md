@@ -7,7 +7,7 @@ This setup is intended to be a quick guide to getting something up and running q
 ## Running it
 If using Intellij IDEA you can use the Spring dashboard which, if you import the gradle file will automatically create the run configurations for all three services.
 
-Otherwise you can run them straight from java as you please, no special flags needed.
+Otherwise you can run them straight from java as you please, no special flags needed.  Spring boot contains its own Tomcat server so can be run with just a JRE
 
 ## Building jars
 Remember to not build jars manually if you can avoid it!
