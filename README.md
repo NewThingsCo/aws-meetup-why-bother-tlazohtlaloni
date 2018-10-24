@@ -1,7 +1,7 @@
 ![alt text](aws_helsinki_meetup_newthings.png "AWS Helsinki User Group Meetup at New Things Co")
 
-#AWS - Why Bother?
-###By Michael Fynes
+# AWS - Why Bother?
+### By Michael Fynes
 
 "In the beginning there was darkness…"
 
