@@ -1,0 +1,6 @@
+rootProject.name = 'tlazohtlaloni'
+
+include 'registry'
+include 'gateway'
+include 'aztecs'
+
